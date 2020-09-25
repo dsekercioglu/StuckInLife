@@ -1,0 +1,64 @@
+{
+  "CHAR_CREATORS": [
+    {
+      "type": "FixedCharCreator",
+      "POSITION": [
+        1.0,
+        0.0
+      ],
+      "TEAM_CODE": 1,
+      "START_TIME": 0,
+      "NUMBER_OF_SPAWNS": 5,
+      "CHAR_CLASS": "Slime",
+      "SPAWN_TIME_INTERVAL": 60000
+    },
+    {
+      "type": "FixedCharCreator",
+      "POSITION": [
+        1.0,
+        0.25
+      ],
+      "TEAM_CODE": 1,
+      "START_TIME": 0,
+      "NUMBER_OF_SPAWNS": 5,
+      "CHAR_CLASS": "Slime",
+      "SPAWN_TIME_INTERVAL": 60000
+    },
+    {
+      "type": "FixedCharCreator",
+      "POSITION": [
+        1.0,
+        0.5
+      ],
+      "TEAM_CODE": 1,
+      "START_TIME": 0,
+      "NUMBER_OF_SPAWNS": 5,
+      "CHAR_CLASS": "Slime",
+      "SPAWN_TIME_INTERVAL": 60000
+    },
+    {
+      "type": "FixedCharCreator",
+      "POSITION": [
+        1.0,
+        0.75
+      ],
+      "TEAM_CODE": 1,
+      "START_TIME": 0,
+      "NUMBER_OF_SPAWNS": 5,
+      "CHAR_CLASS": "Slime",
+      "SPAWN_TIME_INTERVAL": 60000
+    },
+    {
+      "type": "FixedCharCreator",
+      "POSITION": [
+        1.0,
+        1.0
+      ],
+      "TEAM_CODE": 1,
+      "START_TIME": 0,
+      "NUMBER_OF_SPAWNS": 5,
+      "CHAR_CLASS": "Slime",
+      "SPAWN_TIME_INTERVAL": 60000
+    }
+  ]
+}

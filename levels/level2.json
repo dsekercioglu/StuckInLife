@@ -1,0 +1,20 @@
+{
+  "CHAR_CREATORS": [
+    {
+      "type": "LoopingCharCreator",
+      "START_POSITION": [
+        1.0,
+        0.01
+      ],
+      "END_POSITION": [
+        1.0,
+        0.99
+      ],
+      "TEAM_CODE": 1,
+      "START_TIME": 1000,
+      "NUMBER_OF_SPAWNS": 16,
+      "CHAR_CLASS": "Reaper",
+      "SPAWN_TIME_INTERVAL": 1000
+    }
+  ]
+}

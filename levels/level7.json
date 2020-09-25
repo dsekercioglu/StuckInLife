@@ -1,0 +1,20 @@
+{
+  "CHAR_CREATORS": [
+    {
+      "type": "LoopingCharCreator",
+      "START_POSITION": [
+        1.0,
+        1.0
+      ],
+      "END_POSITION": [
+        1.0,
+        0.0
+      ],
+      "TEAM_CODE": 1,
+      "START_TIME": 0,
+      "NUMBER_OF_SPAWNS": 8,
+      "CHAR_CLASS": "SunSoldier",
+      "SPAWN_TIME_INTERVAL": 10000
+    }
+  ]
+}

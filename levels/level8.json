@@ -1,0 +1,36 @@
+{
+  "CHAR_CREATORS": [
+    {
+      "type": "LoopingCharCreator",
+      "START_POSITION": [
+        0.0,
+        0.6
+      ],
+      "END_POSITION": [
+        0.0,
+        0.4
+      ],
+      "TEAM_CODE": 0,
+      "START_TIME": 0,
+      "NUMBER_OF_SPAWNS": 25,
+      "CHAR_CLASS": "Mummy",
+      "SPAWN_TIME_INTERVAL": 10000
+    },
+    {
+      "type": "LoopingCharCreator",
+      "START_POSITION": [
+        1.0,
+        1.0
+      ],
+      "END_POSITION": [
+        1.0,
+        0.0
+      ],
+      "TEAM_CODE": 1,
+      "START_TIME": 0,
+      "NUMBER_OF_SPAWNS": 50,
+      "CHAR_CLASS": "Reaper",
+      "SPAWN_TIME_INTERVAL": 10000
+    }
+  ]
+}
